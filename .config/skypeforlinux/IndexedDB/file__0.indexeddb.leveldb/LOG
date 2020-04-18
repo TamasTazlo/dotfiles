@@ -1,0 +1,12 @@
+2020/04/15-19:27:05.917 a3a6 Reusing MANIFEST /home/tamas/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/04/15-19:27:05.917 a3a6 Recovering log #16
+2020/04/15-19:27:05.992 a3a6 Reusing old log /home/tamas/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/000016.log 
+2020/04/15-20:02:30.529 a8e2 Level-0 table #21: started
+2020/04/15-20:02:31.499 a8e2 Level-0 table #21: 1531892 bytes OK
+2020/04/15-20:02:31.555 a8e2 Delete type=0 #16
+2020/04/15-20:29:04.783 a8e2 Compacting 1@1 + 1@2 files
+2020/04/15-20:29:04.917 a8e2 Generated table #22@1: 4428 keys, 1035747 bytes
+2020/04/15-20:29:04.917 a8e2 Compacted 1@1 + 1@2 files => 1035747 bytes
+2020/04/15-20:29:04.981 a8e2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/04/15-20:29:04.981 a8e2 Delete type=2 #21
+2020/04/15-20:29:04.981 a8e2 Delete type=2 #18

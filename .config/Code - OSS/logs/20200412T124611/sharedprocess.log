@@ -1,0 +1,3 @@
+[2020-04-12 12:46:15.294] [sharedprocess] [info] main {"machineId":"af1a79225c63b3a0fb6a27362568538bed9f33f48a9386398649380add9df0af","windowId":2}
+[2020-04-12 12:46:15.308] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/tamas/.config/Code - OSS/User/snippets'
+[2020-04-12 12:46:55.305] [sharedprocess] [info] Starting to clean up unused language packs.
